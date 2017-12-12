@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context="org.marco.planets.MainActivity">
+
+<ImageView
+    android:id="@+id/image_view_solar_system"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:srcCompat="@drawable/foto4"
+    android:adjustViewBounds="true" />
+
+<TextView
+    android:id="@+id/text_view_planet_titulo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/planets"
+    android:layout_gravity="center_horizontal"
+    android:textSize="30sp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"/>
+
+<ListView
+    android:id="@+id/list_view_planets"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</ListView>
+</LinearLayout>

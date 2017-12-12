@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <string name="planets">Planetas</string>
+    <string name="nombre">Nombre:</string>
+    <string name="distanciaSol">Distancia Sol(Km):</string>
+    <string name="relacion_tierra">Relación Tierra:</string>
+    <string name="volumen">Volumen(Km3):</string>
+    <string name="masa">Masa(Kgs):</string>
+    <string name="satelites_naturales">Satélites:</string>
+    <string name="velocidad_escape">Velocidad escape(Kms/s):</string>
+</resources>
