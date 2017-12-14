@@ -2,6 +2,9 @@ package org.marco.planets.model;
 
 import java.io.Serializable;
 
+/**
+ * Clase Planet que tiene como atributos información relacionada con un Planeta.
+ */
 public class Planet implements Serializable{
     private int id;
     private String nombrePlaneta;
@@ -32,7 +35,6 @@ public class Planet implements Serializable{
 
 
     // Getter y Setter
-
 
     public int getId() {
         return id;

@@ -115,7 +115,8 @@ tools:context="org.marco.planets.DetailActivity">
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textAlignment="center"
-                android:textSize="25sp"/>
+                android:textSize="25sp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/planet_distancia_sol_text_view"
@@ -123,7 +124,8 @@ tools:context="org.marco.planets.DetailActivity">
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textAlignment="center"
-                android:textSize="25sp"/>
+                android:textSize="25sp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/planet_relacion_tierra_text_view"
@@ -131,7 +133,8 @@ tools:context="org.marco.planets.DetailActivity">
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textAlignment="center"
-                android:textSize="25sp"/>
+                android:textSize="25sp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/planet_volumen_text_view"
@@ -139,7 +142,8 @@ tools:context="org.marco.planets.DetailActivity">
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textAlignment="center"
-                android:textSize="25sp"/>
+                android:textSize="25sp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/planet_masa_text_view"
@@ -147,7 +151,8 @@ tools:context="org.marco.planets.DetailActivity">
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textAlignment="center"
-                android:textSize="25sp"/>
+                android:textSize="25sp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/planet_satelites_naturales_text_view"
@@ -155,7 +160,8 @@ tools:context="org.marco.planets.DetailActivity">
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textAlignment="center"
-                android:textSize="25sp"/>
+                android:textSize="25sp"
+                android:textStyle="bold"/>
 
             <TextView
                 android:id="@+id/planet_velocidad_escape_text_view"
@@ -163,7 +169,8 @@ tools:context="org.marco.planets.DetailActivity">
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textAlignment="center"
-                android:textSize="25sp"/>
+                android:textSize="25sp"
+                android:textStyle="bold"/>
 
         </LinearLayout>
     </LinearLayout>
